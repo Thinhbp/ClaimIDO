@@ -1,10 +1,4 @@
-/**
- *Submitted for verification at Etherscan.io on 2022-07-20
-*/
 
-/**
- *Submitted for verification at BscScan.com on 2022-06-06
-*/
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
